@@ -11,7 +11,6 @@
 </p>
 </h1>
 Developed as a part of Special Subject "Building Scalable Applications using Docker and Kubernetes" (in Greek).
-<br>
 <p align="center">
    <a href="https://github.com/AxilleasGalanis/Building-Scalable-Applications-using-Docker-and-Kubernetes/blob/main/K8s_Docker.pdf">
     <img alt="Theoretical Background" src="https://img.shields.io/badge/Theoretical-Background-red.svg" />
