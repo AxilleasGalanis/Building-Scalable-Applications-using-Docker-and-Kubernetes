@@ -19,9 +19,9 @@ Developed as a part of special subject "Building Scalable Applications using Doc
     <img alt="Dataset" src="https://img.shields.io/badge/Wiki_corpus-Dataset-red.svg" />
   </a>
   <a href="https://github.com/estamos/word2vec-thesis/releases">
-    <img alt="Releases" src="https://img.shields.io/github/v/release/estamos/word2vec-thesis" />
+    <img alt="Presentation" src="https://img.shields.io/github/v/release/estamos/word2vec-thesis" />
   </a>
   <a href="https://github.com/estamos/word2vec-thesis/releases/download/v1.1.2/pre-trained-models.tar.gz">
-    <img alt="Pre-trained models" src="https://img.shields.io/badge/Pre_trained-Models-orange.svg" />
+    <img alt="Labs and Excercises" src="https://img.shields.io/badge/Pre_trained-Models-orange.svg" />
   </a>
 </p>
