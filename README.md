@@ -16,10 +16,10 @@
 Developed as a part of special subject "Building Scalable Applications using Docker and Kubernetes".
 <p align="center">
    <a href="https://github.com/estamos/word2vec-thesis/releases/download/v1.1.2/dataset.tar.gz">
-    <img alt="Dataset" src="https://img.shields.io/badge/Wiki_corpus-Dataset-red.svg" />
+    <img alt="Theoretical Background" src="https://img.shields.io/badge/Theoretical-Background-red.svg" />
   </a>
   <a href="https://github.com/estamos/word2vec-thesis/releases">
-    <img alt="Presentation" src="https://img.shields.io/github/v/release/estamos/word2vec-thesis" />
+    <img alt="Application" src="https://img.shields.io/github/v/release/estamos/word2vec-thesis" />
   </a>
   <a href="https://github.com/estamos/word2vec-thesis/releases/download/v1.1.2/pre-trained-models.tar.gz">
     <img alt="Labs and Excercises" src="https://img.shields.io/badge/Pre_trained-Models-orange.svg" />
