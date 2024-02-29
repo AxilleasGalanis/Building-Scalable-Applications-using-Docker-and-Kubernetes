@@ -1,11 +1,9 @@
-# Building Scalable Applications using Docker and Kubernetes
- 
 <h1 align="center">
   <a href="https://uth.gr" title="University of Thessaly">
     <img alt="University of Thessaly" src="https://www.uth.gr/sites/default/files/contents/logos/UTH-logo-english.png" width="200px" height="200px" />
   </a>
   <br />
-  word2vec-thesis
+  Building Scalable Applications using Docker and Kubernetes
   <p align="center">
    <a href="https://ir.lib.uth.gr/xmlui/handle/11615/57704">
     <img alt="Thesis as published in UTH Institutional Repository" src="https://img.shields.io/badge/Thesis- as published in Institutional Repository-red.svg" />
