@@ -8,7 +8,7 @@
    <a href="https://github.com/estamos/word2vec-thesis/files/7202631/Stamos_Evangelos_Thesis.pdf">
     <img alt="Thesis" src="https://img.shields.io/badge/Thesis-PDF-white.svg" />
   </a>
-  <a href="https://github.com/estamos/word2vec-thesis/files/7216144/Stamos_Evangelos_Thesis_Presentation.pdf">
+  <a href="https://github.com/AxilleasGalanis/Building-Scalable-Applications-using-Docker-and-Kubernetes/blob/main/Docker_Kubernetes_Presentation.pptx">
     <img alt="Presentation" src="https://img.shields.io/badge/Thesis_Presentation-PDF-lightgrey.svg" />
   </a>
 </p>
