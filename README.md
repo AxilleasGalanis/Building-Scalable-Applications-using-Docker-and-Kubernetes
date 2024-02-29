@@ -5,17 +5,14 @@
   <br />
   Building Scalable Applications using Docker and Kubernetes
   <p align="center">
-   <a href="https://github.com/estamos/word2vec-thesis/files/7202631/Stamos_Evangelos_Thesis.pdf">
-    <img alt="Thesis" src="https://img.shields.io/badge/Thesis-PDF-white.svg" />
-  </a>
-  <a href="https://github.com/AxilleasGalanis/Building-Scalable-Applications-using-Docker-and-Kubernetes/blob/main/Docker_Kubernetes_Presentation.pptx">
-    <img alt="Presentation" src="https://img.shields.io/badge/Presentation-PDF-lightgrey.svg" />
-  </a>
+    <a href="https://github.com/AxilleasGalanis/Building-Scalable-Applications-using-Docker-and-Kubernetes/blob/main/Docker_Kubernetes_Presentation.pptx">
+      <img alt="Presentation" src="https://img.shields.io/badge/Presentation-PDF-lightgrey.svg" />
+    </a>
 </p>
 </h1>
 Developed as a part of special subject "Building Scalable Applications using Docker and Kubernetes".
 <p align="center">
-   <a href="https://github.com/estamos/word2vec-thesis/releases/download/v1.1.2/dataset.tar.gz">
+   <a href="https://github.com/AxilleasGalanis/Building-Scalable-Applications-using-Docker-and-Kubernetes/blob/main/K8s_Docker.pdf">
     <img alt="Theoretical Background" src="https://img.shields.io/badge/Theoretical-Background-red.svg" />
   </a>
   <a href="https://github.com/estamos/word2vec-thesis/releases">
