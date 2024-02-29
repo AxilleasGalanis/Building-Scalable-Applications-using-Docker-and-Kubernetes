@@ -9,7 +9,7 @@
     <img alt="Thesis" src="https://img.shields.io/badge/Thesis-PDF-white.svg" />
   </a>
   <a href="https://github.com/AxilleasGalanis/Building-Scalable-Applications-using-Docker-and-Kubernetes/blob/main/Docker_Kubernetes_Presentation.pptx">
-    <img alt="Presentation" src="https://img.shields.io/badge/Thesis_Presentation-PDF-lightgrey.svg" />
+    <img alt="Presentation" src="https://img.shields.io/badge/Presentation-PDF-lightgrey.svg" />
   </a>
 </p>
 </h1>
