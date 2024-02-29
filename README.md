@@ -18,7 +18,7 @@ Developed as a part of special subject "Building Scalable Applications using Doc
   <a href="https://github.com/AxilleasGalanis/Building-Scalable-Applications-using-Docker-and-Kubernetes/tree/main/SFM">
     <img alt="Application" src="https://img.shields.io/badge/Application-Realease-blue.svg" />
   </a>
-  <a href="https://github.com/estamos/word2vec-thesis/releases/download/v1.1.2/pre-trained-models.tar.gz">
+  <a href="https://github.com/AxilleasGalanis/Building-Scalable-Applications-using-Docker-and-Kubernetes/blob/main/Labs.pdf">
     <img alt="Labs and Excercises" src="https://img.shields.io/badge/Labs_and-Excercises-orange.svg" />
   </a>
 </p>
