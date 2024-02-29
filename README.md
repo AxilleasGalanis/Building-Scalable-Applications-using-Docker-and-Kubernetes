@@ -13,8 +13,7 @@
   </a>
 </p>
 </h1>
-Developed as a part of thesis "Big Data Analytics using Machine Learning Algorithms" - A Word2vec comparative study of CBOW and Skipgram.
-
+Developed as a part of special subject "Building Scalable Applications using Docker and Kubernetes".
 <p align="center">
    <a href="https://github.com/estamos/word2vec-thesis/releases/download/v1.1.2/dataset.tar.gz">
     <img alt="Dataset" src="https://img.shields.io/badge/Wiki_corpus-Dataset-red.svg" />
